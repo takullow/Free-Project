@@ -16,7 +16,7 @@
 - Laravel
 
 ### Project Management Tools
-- trello
+- Backlog
 - Slack
 
 # Note
