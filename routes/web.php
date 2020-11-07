@@ -14,5 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return 'Hello, this is HP of Budy!';
+});
+
+Route::get('/top', function () {
+    return view('top');
+});
+
+Route::get('/ocean_swim', function () {
+    return view('ocean_swim');
+});
+
+Route::get('/kids_program', function () {
+    return view('kids_program');
+});
+
+Route::get('/water_activity', function () {
+    return view('water_activity');
+});
+
+Route::get('/HP_Goto_Shinya', function () {
+    return view('water_activity');
 });
