@@ -25,8 +25,8 @@ Route::get('/ocean_swim', function () {
     return view('ocean_swim');
 });
 
-Route::get('/kids_program', function () {
-    return view('kids_program');
+Route::get('/kids_programs', function () {
+    return view('kids_programs');
 });
 
 Route::get('/water_activity', function () {
