@@ -42,21 +42,7 @@
 </head>
 <body bgcolor="#6699FF" text="#3333CC" link="#FF6600" vlink="#CC66FF" alink="#FF3333" background="pe12_bg.gif">
     <p align="center">
-        <a href="index.html" target="_blank">
-            <img src="http://www.sports-buddy.jp/button3131211.gif" width="153" height="116" border="0" alt="トップページ">
-        </a>
-        <a href="OWS.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button313141.gif" width="149" height="117" border="0" alt="オーシャンスイム">
-        </a>
-        <a href="kiz.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button313126.gif" width="142" height="116" border="0" alt="キッズプログラム">
-        </a>
-        <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button3131241.gif" width="136" height="116" border="0" alt="シーカヤック教室">
-        </a>
-        <a href="sgoto.html" target="_blank">
-            <img src="http://www.sports-buddy.jp/button313123111.gif" width="131" height="117" border="0" alt="後藤新弥のＨＰ">
-        </a>
+        @include('header')
     </p>
     <div style="width : 67px;height : 400px;top : 760px;left : 6px;
     	position : absolute;

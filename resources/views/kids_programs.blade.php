@@ -8,23 +8,7 @@
 </head>
 <body>
     <p align="center">
-        <a href="index.html" target="_blank">
-            <img src="http://www.sports-buddy.jp/button3131211.gif" width="153" height="116" border="0" alt="�g�b�v�y�[�W">
-        </a>
-        <a href="OWS.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button313141.gif" width="149" height="117" border="0" alt="�I�[�V�����X�C��">
-        </a>
-        <a href="kiz.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button313126.gif" width="142" height="116" border="0" alt="�L�b�Y�v���O����">
-        </a>
-        <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
-            <img src="http://www.sports-buddy.jp/button3131241.gif" width="136" height="116" border="0" alt="�V�[�J���b�N����">
-        </a>
-        <a href="sgoto.html" target="_blank">
-            <img src="http://www.sports-buddy.jp/button313123111.gif" width="131" height="117" border="0" alt="�㓡�V��̂g�o">
-        </a>
-        <br>
-        <br>
+        @include('header')
     </p>
     <p align="center">
         <font color="#0000ff" size="+2">
