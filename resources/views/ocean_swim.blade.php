@@ -10,19 +10,19 @@
     <p align="center">
         <font color="#000000">
             <a href="index.html" target="_blank">
-                <img src="button3131211.gif" width="153" height="116" border="0" alt="トップページ">
+                <img src="http://www.sports-buddy.jp/button3131211.gif" width="153" height="116" border="0" alt="トップページ">
             </a>
             <a href="OWS.html" target="_self">
-                <img src="button313141.gif" width="149" height="117" border="0" alt="オーシャンスイム">
+                <img src="http://www.sports-buddy.jp/button313141.gif" width="149" height="117" border="0" alt="オーシャンスイム">
             </a>
             <a href="kiz.html" target="_self">
-                <img src="button313126.gif" width="142" height="116" border="0" alt="キッズプログラム">
+                <img src="http://www.sports-buddy.jp/button313126.gif" width="142" height="116" border="0" alt="キッズプログラム">
             </a>
             <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
-                <img src="button3131241.gif" width="136" height="116" border="0" alt="シーカヤック教室">
+                <img src="http://www.sports-buddy.jp/button3131241.gif" width="136" height="116" border="0" alt="シーカヤック教室">
             </a>
             <a href="sgoto.html" target="_blank">
-                <img src="button313123111.gif" width="131" height="117" border="0" alt="後藤新弥のＨＰ">
+                <img src="http://www.sports-buddy.jp/button313123111.gif" width="131" height="117" border="0" alt="後藤新弥のＨＰ">
             </a>
             <br>
         </font>
@@ -41,10 +41,10 @@
                 </b>
                 <br>
                 <br>
-                <img src="ows20-4r-p1.jpg" width="670" height="502" border="0">
+                <img src="http://www.sports-buddy.jp/ows20-4r-p1.jpg" width="670" height="502" border="0">
                 <br>
                 <br>
-                <img src="ows20-4r-a.jpg" width="389" height="291" border="0">
+                <img src="http://www.sports-buddy.jp/ows20-4r-a.jpg" width="389" height="291" border="0">
                 <br>
                 <br>
             </font>
@@ -56,7 +56,7 @@
                     選手の健闘を期待しています
                     <br>
                     <br>
-                    <img src="ows20-4r-p2.jpg" width="388" height="291" border="0">
+                    <img src="http://www.sports-buddy.jp/ows20-4r-p2.jpg" width="388" height="291" border="0">
                     <br>
                 </b>
             </font>
@@ -302,7 +302,7 @@
             minor-latin'>
                 森新太郎　草柳尚志　信坂宣希　高橋徹　加藤圭貴　小平怜　猪爪理恵　青柳知亜希
                 <br>
-                <img src="ows-4r-p-b.jpg" width="427" height="319" border="0">
+                <img src="http://www.sports-buddy.jp/ows-4r-p-b.jpg" width="427" height="319" border="0">
                 <br>
             </span>
             <span lang=EN-US>
@@ -1703,7 +1703,7 @@
     <p align="center">
         <b>
             <br>
-            <img src="ows20-3r-p2.JPG" width="673" height="477" border="0">
+            <img src="http://www.sports-buddy.jp/ows20-3r-p2.JPG" width="673" height="477" border="0">
             <br>
             <br>
         </b>
@@ -1908,7 +1908,7 @@
     <p class="MsoNormal" align="center">
         <b>
             <br>
-            <img src="ows20-3r-p11.JPG" width="787" height="634" border="0">
+            <img src="http://www.sports-buddy.jp/ows20-3r-p11.JPG" width="787" height="634" border="0">
             <br>
             <br>
         </b>
@@ -2242,7 +2242,7 @@
     <p class="MsoNormal" align="center">
         <b>
             <br>
-            <img src="ows20-3r-p3.JPG" width="722" height="586" border="0">
+            <img src="http://www.sports-buddy.jp/ows20-3r-p3.JPG" width="722" height="586" border="0">
             <br>
             <br>
         </b>
@@ -2657,10 +2657,10 @@
             <br>
             <br>
             <br>
-            <img src="gantanswim-20-3p.jpg" width="671" height="504" border="0">
+            <img src="http://www.sports-buddy.jp/gantanswim-20-3p.jpg" width="671" height="504" border="0">
             <br>
             <br>
-            <img src="gantanswim-20-p1.jpg" width="680" height="509" border="0">
+            <img src="http://www.sports-buddy.jp/gantanswim-20-p1.jpg" width="680" height="509" border="0">
             <br>
         </font>
         <b>
@@ -2695,13 +2695,13 @@
         <font color="#000000">
             <br>
             <br>
-            <img src="gantanswim-20-p2.jpg" width="692" height="519" border="0">
+            <img src="http://www.sports-buddy.jp/gantanswim-20-p2.jpg" width="692" height="519" border="0">
             <br>
             <br>
-            <img src="gantanswim-20-p7.JPG" width="690" height="440" border="0">
+            <img src="http://www.sports-buddy.jp/gantanswim-20-p7.JPG" width="690" height="440" border="0">
             <br>
             <br>
-            <img src="image6.jpg" width="694" height="575" border="0">
+            <img src="http://www.sports-buddy.jp/image6.jpg" width="694" height="575" border="0">
             <br>
         </font>
     </p>
@@ -2735,7 +2735,7 @@
         </font>
     </p>
     <p class="MsoNormal" style="text-indent:10.5pt;mso-char-indent-count:1.0" align="center">
-        <img src="gantanswim-20-p6.jpg" width="728" height="558" border="0">
+        <img src="http://www.sports-buddy.jp/gantanswim-20-p6.jpg" width="728" height="558" border="0">
         <font size="+1">
             <b>
                 <span lang=EN-US></span>
@@ -2800,7 +2800,7 @@
                 </font>
                 <font color="#000000" size="+2">
                     <br>
-                    <img src="parkar.jpg" width="504" height="283" border="0">
+                    <img src="http://www.sports-buddy.jp/parkar.jpg" width="504" height="283" border="0">
                     <br>
 
                     受賞者は次の方々です。
@@ -2875,7 +2875,7 @@
                 </b>
             </font>
         </b>
-        <img src="ows18-5r-p011.jpg" width="428" height="305" border="0">
+        <img src="http://www.sports-buddy.jp/ows18-5r-p011.jpg" width="428" height="305" border="0">
         <span style='font-family:"ＭＳ 明朝","serif";mso-ascii-font-family:
         Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"ＭＳ 明朝";
         mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
@@ -2920,9 +2920,9 @@
     </p>
     <p class="MsoNormal" style="tab-stops:271.2pt" align="center">
         <br>
-        <img src="IMGP6419t2.jpg" width="165" height="120" border="0">
-        <img src="IMGP0922111.jpg" width="185" height="123" border="0">
-        <img src="IMG_18451.jpg" width="202" height="122" border="0">
+        <img src="http://www.sports-buddy.jp/IMGP6419t2.jpg" width="165" height="120" border="0">
+        <img src="http://www.sports-buddy.jp/IMGP0922111.jpg" width="185" height="123" border="0">
+        <img src="http://www.sports-buddy.jp/IMG_18451.jpg" width="202" height="122" border="0">
         <br>
         <br>
         <br>
