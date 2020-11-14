@@ -43,19 +43,19 @@
 <body bgcolor="#6699FF" text="#3333CC" link="#FF6600" vlink="#CC66FF" alink="#FF3333" background="pe12_bg.gif">
     <p align="center">
         <a href="index.html" target="_blank">
-            <img src="button3131211.gif" width="153" height="116" border="0" alt="トップページ">
+            <img src="http://www.sports-buddy.jp/button3131211.gif" width="153" height="116" border="0" alt="トップページ">
         </a>
         <a href="OWS.html" target="_self">
-            <img src="button313141.gif" width="149" height="117" border="0" alt="オーシャンスイム">
+            <img src="http://www.sports-buddy.jp/button313141.gif" width="149" height="117" border="0" alt="オーシャンスイム">
         </a>
         <a href="kiz.html" target="_self">
-            <img src="button313126.gif" width="142" height="116" border="0" alt="キッズプログラム">
+            <img src="http://www.sports-buddy.jp/button313126.gif" width="142" height="116" border="0" alt="キッズプログラム">
         </a>
         <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
-            <img src="button3131241.gif" width="136" height="116" border="0" alt="シーカヤック教室">
+            <img src="http://www.sports-buddy.jp/button3131241.gif" width="136" height="116" border="0" alt="シーカヤック教室">
         </a>
         <a href="sgoto.html" target="_blank">
-            <img src="button313123111.gif" width="131" height="117" border="0" alt="後藤新弥のＨＰ">
+            <img src="http://www.sports-buddy.jp/button313123111.gif" width="131" height="117" border="0" alt="後藤新弥のＨＰ">
         </a>
     </p>
     <div style="width : 67px;height : 400px;top : 760px;left : 6px;
@@ -171,7 +171,7 @@
             <font size="+3">第4戦結果はOWS頁に掲載中</font>
         </b>
         <br>
-        <img src="img_g062.gif" width="300" height="269" border="0">
+        <img src="http://www.sports-buddy.jp/img_g062.gif" width="300" height="269" border="0">
         <br>
         <br>
         <font size="+2">
@@ -434,10 +434,10 @@
                     <br>
                 </font>
             </b>
-            <img src="ft010.jpg" width="185" height="191" border="0">
+            <img src="http://www.sports-buddy.jp/ft010.jpg" width="185" height="191" border="0">
             <br>
             <br>
-            <img src="tirashi.jpg" width="448" height="336" border="0">
+            <img src="http://www.sports-buddy.jp/tirashi.jpg" width="448" height="336" border="0">
             <br>
             <br>
 
@@ -465,7 +465,7 @@
                             <br>
                             <br>
                             <a href="OWS.html" target="_self">
-                                <img src="gantanswim-20-p2.jpg" width="655" height="490" border="0">
+                                <img src="http://www.sports-buddy.jp/gantanswim-20-p2.jpg" width="655" height="490" border="0">
                             </a>
                             <br>
                         </span>
@@ -496,7 +496,7 @@
                         <br>
                         <br>
                         <a href="OWS.html" target="_self">
-                            <img src="button1.gif" width="323" height="74" border="0" alt="オーシャン・スイム">
+                            <img src="http://www.sports-buddy.jp/button1.gif" width="323" height="74" border="0" alt="オーシャン・スイム">
                         </a>
                         <br>
                     </font>
@@ -620,7 +620,7 @@
                 <br>
             </font>
             <br>
-            <img alt="直線上に配置" width="517" height="15" border="0" src="sc02_l1.gif">
+            <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
             <br>
             <br>
             <font size="+1">
@@ -629,7 +629,7 @@
                         親子で遊ぼう　湘南の海
                         <br>
                         <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_blank">
-                            <img src="logo4.gif" width="271" height="66" border="0" alt="Water Activity 　in Shonan">
+                            <img src="http://www.sports-buddy.jp/logo4.gif" width="271" height="66" border="0" alt="Water Activity 　in Shonan">
                         </a>
                         <br>
 
@@ -644,12 +644,12 @@
                             </font>
                         </font>
                         <br>
-                        <img src="anime-ebosi3.gif" width="259" height="158" border="0">
+                        <img src="http://www.sports-buddy.jp/anime-ebosi3.gif" width="259" height="158" border="0">
                         <br>
                         <br>
                     </font>
                     <font color="#0000ff">
-                        <img alt="直線上に配置" width="517" height="15" border="0" src="sc02_l1.gif">
+                        <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
                         <br>
                     </font>
                 </b>
@@ -660,7 +660,7 @@
                     アウトドアが個性を育てる
                     <br>
                     <a href="kiz.html" target="_self">
-                        <img src="logo2.gif" width="276" height="50" border="0" alt="バディキッズ・プログラム">
+                        <img src="http://www.sports-buddy.jp/logo2.gif" width="276" height="50" border="0" alt="バディキッズ・プログラム">
                     </a>
                 </font>
             </b>
@@ -682,7 +682,7 @@
                                 <font color="#0000ff">
                                     <br>
                                     <a href="http://www.shonan-buddy.com/buddy_Kids_Adventure/blog/blog.html" target="_self">
-                                        <img src="image.jpg" border="0" width="277" height="147">
+                                        <img src="http://www.sports-buddy.jp/image.jpg" border="0" width="277" height="147">
                                         <br>
                                     </a>
                                     <font size="+1">
@@ -690,7 +690,7 @@
                                             <br>
                                         </font>
                                     </font>
-                                    <img alt="直線上に配置" width="517" height="15" border="0" src="sc02_l1.gif">
+                                    <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
                                     <br>
                                 </font>
                             </b>
@@ -706,7 +706,7 @@
                     <font size="2" color="#000000">
                         <strong>
                             <br>
-                            <img src="logo1.gif" width="361" height="50" border="0" alt="ＮＰＯバディ冒険団">
+                            <img src="http://www.sports-buddy.jp/logo1.gif" width="361" height="50" border="0" alt="ＮＰＯバディ冒険団">
                             <br>
                             <br>
 
@@ -745,7 +745,7 @@
             <font color="#0000ff" size="3">
                 <b>
                     <br>
-                    <img src="nz021.jpg" width="161" height="105" border="0">
+                    <img src="http://www.sports-buddy.jp/nz021.jpg" width="161" height="105" border="0">
                     <br>
                     <br>
 
@@ -770,7 +770,7 @@
             </b>
         </font>
         <a href="mailto:hiroya.endomame@gmail.com">
-            <img src="b006ani.gif" width="46" height="36" border="0">
+            <img src="http://www.sports-buddy.jp/b006ani.gif" width="46" height="36" border="0">
         </a>
         <font size="+1">
             <b>

@@ -9,19 +9,19 @@
 <body>
     <p align="center">
         <a href="index.html" target="_blank">
-            <img src="button3131211.gif" width="153" height="116" border="0" alt="�g�b�v�y�[�W">
+            <img src="http://www.sports-buddy.jp/button3131211.gif" width="153" height="116" border="0" alt="�g�b�v�y�[�W">
         </a>
         <a href="OWS.html" target="_self">
-            <img src="button313141.gif" width="149" height="117" border="0" alt="�I�[�V�����X�C��">
+            <img src="http://www.sports-buddy.jp/button313141.gif" width="149" height="117" border="0" alt="�I�[�V�����X�C��">
         </a>
         <a href="kiz.html" target="_self">
-            <img src="button313126.gif" width="142" height="116" border="0" alt="�L�b�Y�v���O����">
+            <img src="http://www.sports-buddy.jp/button313126.gif" width="142" height="116" border="0" alt="�L�b�Y�v���O����">
         </a>
         <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
-            <img src="button3131241.gif" width="136" height="116" border="0" alt="�V�[�J���b�N����">
+            <img src="http://www.sports-buddy.jp/button3131241.gif" width="136" height="116" border="0" alt="�V�[�J���b�N����">
         </a>
         <a href="sgoto.html" target="_blank">
-            <img src="button313123111.gif" width="131" height="117" border="0" alt="�㓡�V��̂g�o">
+            <img src="http://www.sports-buddy.jp/button313123111.gif" width="131" height="117" border="0" alt="�㓡�V��̂g�o">
         </a>
         <br>
         <br>
@@ -32,7 +32,7 @@
         </font>
         <br>
         <a href="http://members3.jcom.home.ne.jp/buddy_buddy/Buddy_Kids_Adventure/Buddy.html" target="_blank">
-            <img src="logo2111.gif" width="519" height="150" border="0" alt="�o�f�B�L�b�Y�E�v���O����">
+            <img src="http://www.sports-buddy.jp/logo2111.gif" width="519" height="150" border="0" alt="�o�f�B�L�b�Y�E�v���O����">
         </a>
         �@
     </p>
@@ -398,8 +398,8 @@
                             <br>
                         </b>
                         <br>
-                        <img src="image1.jpg" width="346" height="231" border="0">
-                        <img src="image3.jpg" width="347" height="231" border="0">
+                        <img src="http://www.sports-buddy.jp/image1.jpg" width="346" height="231" border="0">
+                        <img src="http://www.sports-buddy.jp/image3.jpg" width="347" height="231" border="0">
                         <br>
                         <br>
 
@@ -436,13 +436,13 @@
     </div>
     <p align="center"></p>
     <p align="center">
-        <img src="transparent[1].gif" width="1" height="1" border="0">
+        <img src="http://www.sports-buddy.jp/transparent[1].gif" width="1" height="1" border="0">
         <span lang="EN-US" style='font-size:10.0pt;font-family:
         "Arial","sans-serif";mso-fareast-font-family:"�l�r �o�S�V�b�N";mso-ansi-language:EN-US;
         mso-fareast-language:JA;mso-bidi-language:AR-SA'>
             <b>
                 <font size="+1">
-                    <img src="image2.jpg" width="504" height="336" border="0">
+                    <img src="http://www.sports-buddy.jp/image2.jpg" width="504" height="336" border="0">
                     <br>
                     <br>
                 </font>
