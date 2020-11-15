@@ -618,7 +618,7 @@ function HpbVfx0501(tid,et,ob) {
 </SCRIPT></HEAD>
 <body bgcolor="#3366ff" text="#ffffff" link="#00ffcc" vlink="#66cccc" alink="#99ff00" onload="HpbVfxinit('Layer1','HpbVfx0301','G221',0,0,1);">
 <p align="center"><br>
-<a href="link.html" target="_blank">お薦めリンク</a><a href="link.html" target="_blank"><img src="button121.gif" width="52" height="52" border="0" alt=""></a>　　　<font color="#ff0000"><b>　<a href="foot.html" target="_blank"><br>
+<a href="link.html" target="_blank">お薦めリンク</a><a href="link.html" target="_blank"><img src="http://www.sports-buddy.jp/button121.gif" width="52" height="52" border="0" alt=""></a>　　　<font color="#ff0000"><b>　<a href="foot.html" target="_blank"><br>
 <br>
 @include('header')
 <br>
@@ -629,7 +629,7 @@ function HpbVfx0501(tid,et,ob) {
 </b><br>
 <b>♪♪未知の旅へ踏み出そう</b><font size="-1"><br>
 </font><font size="+1"><b><font size="+4">♪♪</font><font size="+4" color="#ff0000">INTO　THE　UNＫＮOWN<br>
-<img src="kumo_b11.jpg" width="160" height="112" border="0"></font><font size="+4" color="#ffffff"><font size="+1" color="#ffffff">インナーゲーム研究会特別顧問</font></font><font size="+4" color="#ff0000">　<img src="self20171.jpg" width="74" height="101" border="0">　</font><font size="+3" color="#ff0000"><br>
+<img src="http://www.sports-buddy.jp/kumo_b11.jpg" width="160" height="112" border="0"></font><font size="+4" color="#ffffff"><font size="+1" color="#ffffff">インナーゲーム研究会特別顧問</font></font><font size="+4" color="#ff0000">　<img src="http://www.sports-buddy.jp/self20171.jpg" width="74" height="101" border="0">　</font><font size="+3" color="#ff0000"><br>
 　</font><font size="+1" color="#ffffff">日刊スポーツ編集委員、江戸川大学特任教授などを経て、スポーツ集中力を専門研究。,</font><font size="+4" color="#ff0000"><br>
 </font></b></font><font size="+0"><font size="+1"><font size="+1"><font color="#ffff00" size="+2"><b>集中力の源流「インナーゲーム」</b></font></font></font><font size="+2" color="#ffff00"><b>に関連する<br>
 訳者の覚え書きメッセージ</b></font></font><font size="+1"><font size="+3" color="#ffff00"><b><br>
@@ -645,9 +645,9 @@ function HpbVfx0501(tid,et,ob) {
 <font color="#ffff00"><b>余談ですが。<br>
 友人と、「足踏み式消毒ディスペンサー」を開発しました。<br>
 <br>
-<img src="tirashi.jpg" width="636" height="476" border="0"><br>
+<img src="http://www.sports-buddy.jp/tirashi.jpg" width="636" height="476" border="0"><br>
 <br>
-<img src="ft010.jpg" width="185" height="191" border="0"><br>
+<img src="http://www.sports-buddy.jp/ft010.jpg" width="185" height="191" border="0"><br>
 </b></font><font color="#ff0000"><b><a href="foot.html" target="_blank">ペダル式消毒ディスペンサー</a></b></font><br>
 </font></font></p>
 <div style="width : 67px;height : 400px;top : 760px;left : 6px;
@@ -669,7 +669,7 @@ function HpbVfx0501(tid,et,ob) {
 <div align="center"><br>
   <b><i><font color="#00ffff">おやじアドベンチャー　冒険ごっこ写真集</font></i></b><br>
   <br>
-  <img src="ad/0510taki01.JPG" width="581" height="435" border="0"><br>
+  <img src="http://www.sports-buddy.jp/ad/0510taki01.JPG" width="581" height="435" border="0"><br>
   <br>
   <table border="1" summary="冒険写真集" width="365" height="447">
     <tbody>
@@ -727,11 +727,11 @@ function HpbVfx0501(tid,et,ob) {
 　このほど、このインナーゲームの考え方をさらに広め、活用し、追求しようという目的から、上記「インナーゲーム研究会」が、その軸として発足したことは、シリーズ訳者として感無量です。<br>
 プロ選手や競技協会関係者、企業運営者、学術研究者ほか、多くの方々のご助言、ご助力の賜です。</b></font><font size="+1" color="#ffff00"><b><br>
 <br>
-<img src="booksp.jpg" width="361" height="270" border="0"><br>
+<img src="http://www.sports-buddy.jp/booksp.jpg" width="361" height="270" border="0"><br>
 </b></font><font size="+1" color="#ff0000"><b><a href="innergame01.html" target="_blank"><br>
 </a></b></font>集中力の研究普及には、中学時代の陸上コーチでもあった今村浩明先生（密接に関連するフロー理論の研究第一人者）、プロゴルファーの鈴木則夫氏、翻訳の助言を頂いた田中満茂氏（元日刊スポーツ出版社）ら、ほか多くの方々のご支援を頂いたことを特筆致します。<br>
 <br>
-<img src="jibuntate.jpg" width="556" height="692" border="0"><br>
+<img src="http://www.sports-buddy.jp/jibuntate.jpg" width="556" height="692" border="0"><br>
 <br>
 <br>
 <font color="#ffff00" size="+3">逆境挑戦が面白い！</font><br>
@@ -776,7 +776,7 @@ function HpbVfx0501(tid,et,ob) {
   </table>
   <br>
 </div>
-<H6 align="center">　 <FONT size="+1">バディ冒険団　ホームページへ</FONT>　<a href="index.html" target="_self"><IMG src="b001ani.gif" width="46" height="36" border="0"></a> 　<BR>
+<H6 align="center">　 <FONT size="+1">バディ冒険団　ホームページへ</FONT>　<a href="index.html" target="_self"><IMG src="http://www.sports-buddy.jp/b001ani.gif" width="46" height="36" border="0"></a> 　<BR>
 　　　　　　　　　　　　　　　　　<BR>
 <BR>
 </H6>
