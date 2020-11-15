@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Water Activity in Shonan - Atom" href="http://wateractivity.blogspot.com/feeds/posts/default"/>
     <link rel="alternate" type="application/rss+xml" title="Water Activity in Shonan - RSS" href="http://wateractivity.blogspot.com/feeds/posts/default?alt=rss"/>
     <link rel="service.post" type="application/atom+xml" title="Water Activity in Shonan - Atom" href="https://www.blogger.com/feeds/6982218093027883166/posts/default"/>
-    <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js"></script>
+    <!--[if IE]><script type="text/javascript" src="http://www.sports-buddy.jp/https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js"></script>
     <![endif]-->
     <meta content='http://wateractivity.blogspot.com/p/blog-page.html' property='og:url'/>
     <meta content='カヤック' property='og:title'/>
@@ -477,7 +477,7 @@
             }
             </script>
             <div id="navbar-iframe-container"></div>
-            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+            <script type="text/javascript" src="http://www.sports-buddy.jp/https://apis.google.com/js/plusone.js"></script>
             <script type="text/javascript">
             gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
                 if (gapi.iframes && gapi.iframes.getContext) {
@@ -715,7 +715,7 @@
                                                                             <div class='post-body entry-content' id='post-body-6767740933857478336' itemprop='description articleBody'>
                                                                                 <div class="separator" style="clear: both; text-align: center;">
                                                                                     <a href="http://4.bp.blogspot.com/-HpLC_WH4ZYQ/T_pGWmILNuI/AAAAAAAAAH8/nBLngsPUT2w/s1600/P1000143.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">
-                                                                                        <img border="0" height="150" src="http://4.bp.blogspot.com/-HpLC_WH4ZYQ/T_pGWmILNuI/AAAAAAAAAH8/nBLngsPUT2w/s200/P1000143.JPG" width="200"/>
+                                                                                        <img border="0" height="150" src="http://www.sports-buddy.jp/http://4.bp.blogspot.com/-HpLC_WH4ZYQ/T_pGWmILNuI/AAAAAAAAAH8/nBLngsPUT2w/s200/P1000143.JPG" width="200"/>
                                                                                     </a>
                                                                                 </div>
 
@@ -825,12 +825,12 @@
                                                         <div class='widget HTML' data-version='1' id='HTML1'>
                                                             <div class='widget-content'>
                                                                 <div style="width:160px">
-                                                                    <script type="text/javascript" src="http://blogparts.chowari.jp/file/tide-sunrisepurple-a/parts.js"></script>
+                                                                    <script type="text/javascript" src="http://www.sports-buddy.jp/http://blogparts.chowari.jp/file/tide-sunrisepurple-a/parts.js"></script>
                                                                     <script type="text/javascript">
                                                                     showParts('http://blogparts.chowari.jp', '67', '')
                                                                     </script>
                                                                     <a href="http://blogparts.chowari.jp/r.php" target="_blank">
-                                                                        <img src="http://blogparts.chowari.jp/img/linkbanner.gif" style="margin:6px 0 10px; padding:0; border: 0; display: block;"/>
+                                                                        <img src="http://www.sports-buddy.jp/http://blogparts.chowari.jp/img/linkbanner.gif" style="margin:6px 0 10px; padding:0; border: 0; display: block;"/>
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -1041,7 +1041,7 @@
     }, 10);
     </script>
 
-    <script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2095732370-widgets.js"></script>
+    <script type="text/javascript" src="http://www.sports-buddy.jp/https://www.blogger.com/static/v1/widgets/2095732370-widgets.js"></script>
     <script type='text/javascript'>
     window['__wavt'] = 'AOuZoY5ltS4RqWkrbDQfVPBh_HRuVf9PKQ:1604364680133';
     _WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6982218093027883166', '//wateractivity.blogspot.com/p/blog-page.html', '6982218093027883166');
