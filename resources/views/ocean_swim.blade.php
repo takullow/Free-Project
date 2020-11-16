@@ -2236,15 +2236,13 @@
         <br>
         <b>
             <font color="#ff0000" size="+2">
-                <a href="ows/owsqanda.html" target="_blank">
+                <a href="{{ route('ows-qanda') }}" target="_self">
                     Q&amp;Aコーナーを設けました。
                     <br>
-
                     初めての方、是非ご覧ください
                 </a>
                 <br>
                 <br>
-
                 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊
                 <br>
             </font>

@@ -36,3 +36,15 @@ Route::get('/water_activity', function () {
 Route::get('/HP_Goto_Shinya', function () {
     return view('HP_Goto_Shinya');
 })->name('HP_Goto_Shinya');
+
+Route::get('/endo-prof', function () {
+    return view('endo-prof');
+})->name('endo-prof');
+
+Route::get('/ows-qanda', function () {
+    return view('ows-qanda');
+})->name('ows-qanda');
+
+Route::get('/kids-qanda', function () {
+    return view('kids-qanda');
+})->name('kids-qanda');

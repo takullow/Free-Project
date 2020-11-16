@@ -366,7 +366,7 @@
                             <br>
                             <font color="#0000ff" size="+1">
                                 <font color="#0000ff">
-                                    <a href="kizqanda.html" target="_blank">
+                                    <a href="{{ route('kids-qanda') }}" target="_self">
                                         <font size="+2" color="#009900">
                                             初めての方に、QandAのページを作りました。ぜひ、ご参考に。
                                             <br>
