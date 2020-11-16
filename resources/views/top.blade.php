@@ -506,7 +506,7 @@
                                         <font color="#0000ff">
                                             <font size="+0">
                                                 (
-                                                <a href="endo-prof.htm" target="_self">代表　遠藤大哉=プロフィール頁</a>
+                                                <a href="{{ route('endo-prof') }}" target="_self">代表　遠藤大哉=プロフィール頁</a>
                                                 ）
                                             </font>
                                         </font>
@@ -626,7 +626,7 @@
                         <br>
                         <font size="+1">
                             <font color="#0000ff" size="-1">
-                                <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_blank">　　遠藤恵子のカヤックブログ</a>
+                                <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_blank">遠藤恵子のカヤックブログ</a>
                             </font>
                         </font>
                         <br>
@@ -657,9 +657,8 @@
                     <td align="center" valign="top" id="HPB_LP_C0" class="hpb-dp-tb4-cell8">
                         <font size="-1">
                             <b>
-                                <a href="kiz.html" target="_self">キッズアドベンチャーの頁へ</a>
+                                <a href="{{ route('kids_programs') }}" target="_self">キッズアドベンチャーの頁へ</a>
                                 <br>
-
                                         波や風、大自然と仲間たち。楽しみながら、豊かな個性と自主・自立性を育んでいきます。
                             </b>
                         </font>
