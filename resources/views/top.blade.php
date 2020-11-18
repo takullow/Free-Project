@@ -7,26 +7,6 @@
     <meta name="google-site-verification" content="7fxJw-PL0hdjL729KKLeWE0eyx0TNShoqyrSVZ1ifJI">
     <meta name="Description" content="スポーツ　アウトドア　遠泳　後藤新弥">
     <title>バディ冒険団と後藤新弥</title>
-    <script language="JavaScript">
-    //
-    // 左のウィンドウからアイテムをドラッグして
-    // ここにドロップするか、マウスの右ボタン
-    // でポップアップ メニューを出して「スクリプト
-    // に挿入」を選択して、現在のカーソル位置に
-    // コードを挿入します。
-
-    //-->
-    </script>
-    <script language="JavaScript">
-    //
-    // 左のウィンドウからアイテムをドラッグして
-    // ここにドロップするか、マウスの右ボタン
-    // でポップアップ メニューを出して「スクリプト
-    // に挿入」を選択して、現在のカーソル位置に
-    // コードを挿入します。
-
-    //-->
-    </script>
     <style type="text/css">
         <!--
         TEXTAREA{
@@ -37,18 +17,13 @@
           background-attachment : scroll;
         }
         -->
-        
     </style>
 </head>
-<body bgcolor="#6699FF" text="#3333CC" link="#FF6600" vlink="#CC66FF" alink="#FF3333" background="pe12_bg.gif">
+<body bgcolor="#6699FF" text="#3333CC" link="#FF6600" vlink="#CC66FF" alink="#FF3333" background="http://www.sports-buddy.jp/pe12_bg.gif">
     <p align="center">
-        @include('header')
+    @include('header')
     </p>
-    <div style="width : 67px;height : 400px;top : 760px;left : 6px;
-    	position : absolute;
-    	z-index : 2;
-    	visibility : visible;
-    " id="Layer2" align="center"></div>
+    <div style="width:67px; height:400px; top:760px; left:6px; position:absolute; z-index:2; visibility:visible;" id="Layer2" align="center"></div>
     <div style="width : 100px;height : 100px;top : 364px;left : 77px;
     	position : absolute;
     	z-index : 1;
@@ -67,7 +42,7 @@
                         </font>
                         <br>
                     </font>
-                    <font color="#ffffff" size="4">NＰＯ</font>
+                    <font color="#ffffff" size="4">NPO</font>
                 </b>
             </i>
             <b>
@@ -85,7 +60,7 @@
                     <font color="#0000ff" size="5">と</font>
                 </i>
             </font>
-            <a href="sgoto.html">
+            <a href="{{ route('HP_Goto_Shinya') }}">
                 <font size="-1">
                     <i>
                         <font color="#0000ff" size="5">
@@ -125,7 +100,7 @@
             </b>
         </font>
         <font color="#ff0000" size="+4">
-            <b>オーシャンスイム、次は１1月1５日です！</b>
+            <b>オーシャンスイム、次は１１月１５日です！</b>
         </font>
         <br>
         <br>
@@ -136,7 +111,7 @@
         <font size="+1">
             <b>
                 <font size="+4">♪♪</font>
-                <font size="+4" color="#ff0000">INTO　THE　UNＫＮOWN</font>
+                <font size="+4" color="#ff0000">INTO　THE　UNKNOWN</font>
             </b>
             <br>
         </font>
@@ -145,13 +120,7 @@
                 <font size="+1" color="#3333cc">２０２０もバディと冒険を</font>
             </b>
         </font>
-        <font color="#ff0000">
-            <b>
-                <font color="#000000" size="+2">
-                    <br>
-                </font>
-            </b>
-        </font>
+        <br>
         <br>
         <b>
             <font size="+3">第4戦結果はOWS頁に掲載中</font>
@@ -210,30 +179,7 @@
                     </span>
                     <!--[endif]-->
                     <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                        第
-                        <span lang=EN-US>1</span>
-                        戦
-                        <span lang=EN-US>4</span>
-                        月
-                        <span lang=EN-US>26</span>
-                        日（日）
-                        <span lang=EN-US>9</span>
-                        ：
-                        <span lang=EN-US>00</span>
-                        －
-                        <span lang=EN-US>12</span>
-                        ：
-                        <span lang=EN-US>30</span>
-                        片瀬東浜海岸（藤沢市）　＝中止
-                    </span>
-                </b>
-            </font>
-            <font size="+2">
-                <b>
-                    <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                        <span lang=EN-US>
-                            <o:p></o:p>
-                        </span>
+                        第1戦4月26日（日）9：00－12：30 片瀬東浜海岸（藤沢市）＝中止
                     </span>
                 </b>
             </font>
@@ -258,21 +204,7 @@
                 <font color="#ff0000">
                     <b>
                         <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                            第
-                            <span lang=EN-US>2</span>
-                            戦
-                            <span lang=EN-US>5</span>
-                            月
-                            <span lang=EN-US>23</span>
-                            日（土）
-                            <span lang=EN-US>9</span>
-                            ：
-                            <span lang=EN-US>00</span>
-                            －
-                            <span lang=EN-US>12</span>
-                            ：
-                            <span lang=EN-US>30</span>
-                            材木座海岸（鎌倉市）＝中止
+                            第2戦5月23日（土）9：00－12：30 材木座海岸（鎌倉市）＝中止
                         </span>
                     </b>
                 </font>
@@ -298,21 +230,7 @@
                 <font color="#ff0000">
                     <b>
                         <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                            第
-                            <span lang=EN-US>3</span>
-                            戦
-                            <span lang=EN-US>6</span>
-                            月
-                            <span lang=EN-US>28</span>
-                            日（日）
-                            <span lang=EN-US>9</span>
-                            ：
-                            <span lang=EN-US>00</span>
-                            －
-                            <span lang=EN-US>12</span>
-                            ：
-                            <span lang=EN-US>30</span>
-                            片瀬東浜座海岸（藤沢市）
+                            第3戦6月28日（日）9：00－12：30片瀬東浜座海岸（藤沢市）
                         </span>
                     </b>
                 </font>
@@ -338,21 +256,7 @@
                 <font color="#ff0000">
                     <b>
                         <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                            第
-                            <span lang=EN-US>4</span>
-                            戦
-                            <span lang=EN-US>10</span>
-                            月
-                            <span lang=EN-US>25</span>
-                            日（日）
-                            <span lang=EN-US>9</span>
-                            ：
-                            <span lang=EN-US>00</span>
-                            －
-                            <span lang=EN-US>12</span>
-                            ：
-                            <span lang=EN-US>30</span>
-                            片瀬東浜海岸（藤沢市）
+                            第4戦10月25日（日）9：00－12：30 片瀬東浜海岸（藤沢市）
                         </span>
                     </b>
                 </font>
@@ -372,24 +276,7 @@
                     </span>
                     <!--[endif]-->
                     <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                        第
-                        <span lang=EN-US>5</span>
-                        戦
-                        <span lang=EN-US>11</span>
-                        月
-                        <span lang=EN-US>15</span>
-                        日（日）
-                        <span lang=EN-US>9</span>
-                        ：
-                        <span lang=EN-US>00</span>
-                        －
-                        <span lang=EN-US>12</span>
-                        ：
-                        <span lang=EN-US>30</span>
-                        片瀬東浜海岸（藤沢市）【予定】
-                        <span lang=EN-US>
-                            <o:p></o:p>
-                        </span>
+                        第5戦11月15日（日）9：00－12：30 片瀬東浜海岸（藤沢市）【予定】
                     </span>
                 </b>
             </font>
@@ -398,7 +285,7 @@
             <font size="-1">
                 <b>
                     <font color="#ff0000" size="+0">
-                        <a href="OWS.html" target="_self">
+                        <a href="{{ route('ocean_swim') }}" target="_self">
                             <font size="+1">詳細はオーシャンスイムページへ</font>
                         </a>
                     </font>
@@ -406,12 +293,7 @@
             </font>
             <br>
             <br>
-
-              NWES
-            <br>
-
-              NEWS;
-            <b>
+              NEWS
                 <font color="#3333cc" size="+1">
                     バディ・後藤新弥が、友人と「足踏み式ディスペンサー」を開発しました
                     <br>
@@ -450,7 +332,7 @@
                         Century;mso-hansi-font-family:Century'>
                             <br>
                             <br>
-                            <a href="OWS.html" target="_self">
+                            <a href="{{ route('ocean_swim') }}" target="_self">
                                 <img src="http://www.sports-buddy.jp/gantanswim-20-p2.jpg" width="655" height="490" border="0">
                             </a>
                             <br>
@@ -481,7 +363,7 @@
                     <font color="#3333cc" size="+0">
                         <br>
                         <br>
-                        <a href="OWS.html" target="_self">
+                        <a href="{{ route('ocean_swim') }}" target="_self">
                             <img src="http://www.sports-buddy.jp/button1.gif" width="323" height="74" border="0" alt="オーシャン・スイム">
                         </a>
                         <br>
@@ -645,7 +527,7 @@
                 <font color="#0000ff" size="-1">
                     アウトドアが個性を育てる
                     <br>
-                    <a href="kiz.html" target="_self">
+                    <a href="{{ route('kids_programs') }}" target="_self">
                         <img src="http://www.sports-buddy.jp/logo2.gif" width="276" height="50" border="0" alt="バディキッズ・プログラム">
                     </a>
                 </font>
@@ -693,12 +575,10 @@
                             <br>
                             <img src="http://www.sports-buddy.jp/logo1.gif" width="361" height="50" border="0" alt="ＮＰＯバディ冒険団">
                             <br>
-                            <br>
-
                               コーチ＝遠藤恵子ほか　アドバイザー＝谷川真理ほか
                             <font size="+1">
                                 <font color="#0000ff" size="-1">
-                                    <a href="sgoto.html" target="_self">
+                                    <a href="{{ route('HP_Goto_Shinya') }}" target="_self">
                                         <font color="#000000" size="-1">特別顧問後藤新弥</font>
                                     </a>
                                 </font>
@@ -733,7 +613,6 @@
                     <img src="http://www.sports-buddy.jp/nz021.jpg" width="161" height="105" border="0">
                     <br>
                     <br>
-
                       ＜バディ（ＢＵＤＤＹ）とは、仲間とか、パートナーのことです。＞
                     <br>
                 </b>
@@ -741,16 +620,16 @@
         </font>
         <font color="#0000ff" size="2" face="ＭＳ ゴシック">
             <b>
-                　　バディ冒険団は、１人１人のスポーツと冒険を応援するために、仲間達が創設したＮＰＯ（非営利法人）です。新しい海のスポーツ「オーシャン・スイム」の各競技会を初め、子ども達のための、「バディ・キッズ・アドベンチャー」や、親子で楽しめる「遠藤恵子のシーカヤック・スクール」など、初心者でも思いきりエンジョイ出来るイベントやプログラムを開催しています。　　小規模の手作りイベントですが、ライフセーバーらの安全監視のもと、思い切り湘南の海を楽しみます。　
-                <br>
-
-                  　　カヌーのアトランタ、バルセロナ連続五輪代表の遠藤恵子、元スポーツ・キャスター後藤新弥（元江戸川大学教授/元日刊スポーツ編集委員）、海洋冒険家
+                バディ冒険団は、１人１人のスポーツと冒険を応援するために、仲間達が創設したＮＰＯ（非営利法人）です。
+                <br>新しい海のスポーツ「オーシャン・スイム」の各競技会を初め、子ども達のための、「バディ・キッズ・アドベンチャー」や、
+                <br>親子で楽しめる「遠藤恵子のシーカヤック・スクール」など、初心者でも思いきりエンジョイ出来るイベントやプログラムを開催しています。
+                <br>小規模の手作りイベントですが、ライフセーバーらの安全監視のもと、思い切り湘南の海を楽しみます。　
+                <br>カヌーのアトランタ、バルセロナ連続五輪代表の遠藤恵子、元スポーツ・キャスター後藤新弥（元江戸川大学教授/元日刊スポーツ編集委員）、海洋冒険家
             </b>
         </font>
         <font color="#0000ff" size="2" face="ＭＳ ゴシック">
             <b>
                 の高野光哉氏、冒険ライダー風間深志氏など、みな冒険仲間です。　あなたもぜひ、ご参加を！　入団テストはありません。
-                <br>
                 <br>
             </b>
         </font>
@@ -761,7 +640,6 @@
             <b>
                 <font color="#0000ff" size="-1">
                     <br>
-
                       メール
                     <br>
                 </font>
