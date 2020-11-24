@@ -5,7 +5,7 @@
     <meta name="GENERATOR" content="JustSystems Homepage Builder Version 16.0.10.0 for Windows">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="google-site-verification" content="7fxJw-PL0hdjL729KKLeWE0eyx0TNShoqyrSVZ1ifJI">
-    <meta name="Description" content="スポーツ　アウトドア　遠泳　後藤新弥">
+    <meta name="Description" content="スポーツ アウトドア 遠泳 後藤新弥">
     <title>バディ冒険団と後藤新弥</title>
     <style type="text/css">
         <!--
@@ -30,49 +30,29 @@
     	visibility : visible;
     " id="Layer1" align="center"></div>
     <div align="center">
-        <font size="-1">
             <br>
-        </font>
         <font size="+2">
             <i>
                 <b>
-                    <font color="#ffffff" size="5">
-                        <font size="-2">
-                            <font size="-1" color="#ffff00">SPORTS AND ADVENTURE FOR EVERY ONE OF US </font>
-                        </font>
-                        <br>
-                    </font>
+                    <font color="#ffff00" size="2">SPORTS AND ADVENTURE FOR EVERY ONE OF US<br></font>
                     <font color="#ffffff" size="4">NPO</font>
                 </b>
             </i>
             <b>
                 <i>
-                    <font color="#0000ff" size="5">バディ冒険団</font>
+                    <font color="#0000ff" size="5">バディ冒険団と</font>
                 </i>
             </b>
         </font>
         <b>
-            <i>
-                <font color="#0000ff" size="5"></font>
-            </i>
-            <font size="-1">
-                <i>
-                    <font color="#0000ff" size="5">と</font>
-                </i>
-            </font>
             <a href="{{ route('HP_Goto_Shinya') }}">
-                <font size="-1">
+                <font size="4">
                     <i>
-                        <font color="#0000ff" size="5">
-                            <font size="4">後藤新弥</font>
+                        <font color="#0000ff">
+                            後藤新弥
                         </font>
-                    </i>
-                </font>
-                <font size="-2">
-                    <i>
-                        <font color="#ffffff" size="4">
-                            （スポーツ研究室）のＨＰ
-                            <br>
+                        <font color="#ffffff">
+                            （スポーツ研究室）のＨＰ<br>
                         </font>
                     </i>
                 </font>
@@ -102,12 +82,9 @@
         <font color="#ff0000" size="+4">
             <b>オーシャンスイム、次は１１月１５日です！</b>
         </font>
-        <br>
-        <br>
+        <br><br>
         <b>♪♪未知の旅へ踏み出そう</b>
-        <font size="-1">
-            <br>
-        </font>
+        <br>
         <font size="+1">
             <b>
                 <font size="+4">♪♪</font>
@@ -115,30 +92,22 @@
             </b>
             <br>
         </font>
-        <font color="#ff0000" size="-1">
             <b>
-                <font size="+1" color="#3333cc">２０２０もバディと冒険を</font>
+                <font color="#3333cc">２０２０もバディと冒険を</font>
             </b>
-        </font>
-        <br>
-        <br>
+        <br><br>
         <b>
             <font size="+3">第4戦結果はOWS頁に掲載中</font>
         </b>
         <br>
         <img src="http://www.sports-buddy.jp/img_g062.gif" width="300" height="269" border="0">
-        <br>
-        <br>
-        <font size="+2">
-            <font size="-1">＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</font>
+        <br><br>
+        <font size="+1">
+            ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
         </font>
-        <br>
-        <font size="+2">
+        <font size="+2" color="#3333cc">
             <b>
-                <font color="#3333cc" size="+2">
-                    ～OWS　今年度スケジュール掲載中
-                    <br>
-                </font>
+            <br>～OWS　今年度スケジュール掲載中<br>
             </b>
         </font>
         <p class="MsoNormal">
@@ -227,13 +196,11 @@
                 </b>
             </font>
             <font size="+2" color="#ff0000">
-                <font color="#ff0000">
-                    <b>
-                        <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
-                            第3戦6月28日（日）9：00－12：30片瀬東浜座海岸（藤沢市）
-                        </span>
-                    </b>
-                </font>
+                <b>
+                    <span style='font-size:12.0pt;font-family:"ＭＳ Ｐゴシック"'>
+                        第3戦6月28日（日）9：00－12：30片瀬東浜座海岸（藤沢市）
+                    </span>
+                </b>
             </font>
         </p>
         <p class=MsoListParagraph style='margin-left:21.0pt;mso-para-margin-left:0gd;
@@ -291,8 +258,7 @@
                     </font>
                 </b>
             </font>
-            <br>
-            <br>
+            <br><br>
               NEWS
                 <font color="#3333cc" size="+1">
                     バディ・後藤新弥が、友人と「足踏み式ディスペンサー」を開発しました
@@ -303,12 +269,9 @@
                 </font>
             </b>
             <img src="http://www.sports-buddy.jp/ft010.jpg" width="185" height="191" border="0">
-            <br>
-            <br>
+            <br><br>
             <img src="http://www.sports-buddy.jp/tirashi.jpg" width="448" height="336" border="0">
-            <br>
-            <br>
-
+            <br><br>
               ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
             <br>
         </font>
@@ -330,8 +293,7 @@
                     <font color="#ff0000" size="+2">
                         <span style='font-family:"ＭＳ Ｐゴシック";mso-ascii-font-family:
                         Century;mso-hansi-font-family:Century'>
-                            <br>
-                            <br>
+                            <br><br>
                             <a href="{{ route('ocean_swim') }}" target="_self">
                                 <img src="http://www.sports-buddy.jp/gantanswim-20-p2.jpg" width="655" height="490" border="0">
                             </a>
@@ -361,8 +323,7 @@
             <font size="-1">
                 <b>
                     <font color="#3333cc" size="+0">
-                        <br>
-                        <br>
+                        <br><br>
                         <a href="{{ route('ocean_swim') }}" target="_self">
                             <img src="http://www.sports-buddy.jp/button1.gif" width="323" height="74" border="0" alt="オーシャン・スイム">
                         </a>
@@ -381,21 +342,15 @@
                         <font color="#ff0000" size="2">
                             <font color="#0000cc" size="+0">主催：NPO法人バディ冒険団</font>
                             <font color="#0000cc" size="+1">
-                                <br>
-                                <br>
-                                <font color="#3333cc">
-                                    <font color="#ff3333" size="1" face="ＭＳ ゴシック">
-                                        <font color="#0000ff">
-                                            <font size="+0">
-                                                (
-                                                <a href="{{ route('endo-prof') }}" target="_self">代表　遠藤大哉=プロフィール頁</a>
-                                                ）
-                                            </font>
+                                <br><br>
+                                    <font size="1" face="ＭＳ ゴシック">
+                                        <font color="#0000ff" size="+0">
+                                            (
+                                            <a href="{{ route('endo-prof') }}" target="_self">代表　遠藤大哉=プロフィール頁</a>
+                                            ）
                                         </font>
                                     </font>
-                                </font>
-                                <br>
-                                <br>
+                                <br><br>
                             </font>
                             <font size="+0" color="#ff6600">初めての方からエキスパートまで冒険スイマーをサポート</font>
                         </font>
@@ -412,7 +367,6 @@
                         </font>
                     </font>
                     <font color="#0000ff" size="3">身近な湘南の海で&quot;楽しく安全に&quot;をモットーにしたオーシャンスイミングのシリーズ戦です。まだ海で泳いだことのない初心者からレースを待ち望んでいる本格派まで、誰もがオーシャンスイミングをエンジョイできる一方で、海で泳ぐ時のルールや危険回避法等も指導します</font>
-                    <font color="#000000" size="4">。</font>
                 </font>
             </b>
             <font color="#ffff00" size="+1">
@@ -489,40 +443,35 @@
             </font>
             <br>
             <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
-            <br>
-            <br>
+            <br><br>
             <font size="+1">
                 <b>
                     <font color="#0000ff" size="-1">
                         親子で遊ぼう　湘南の海
                         <br>
-                        <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_blank">
-                            <img src="http://www.sports-buddy.jp/logo4.gif" width="271" height="66" border="0" alt="Water Activity 　in Shonan">
+                        <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">
+                            <img src="http://www.sports-buddy.jp/logo4.gif" width="271" height="66" border="0" alt="Water Activity in Shonan">
                         </a>
                         <br>
-
                           江ノ島でカヌーを体験　スクールから親子ツアーまでシーカヤックで海をエンジョイ
                         <br>
-
                           アトランタ、バルセロナ五輪代表の　遠藤恵子が親切に指導します
                         <br>
                         <font size="+1">
                             <font color="#0000ff" size="-1">
-                                <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_blank">遠藤恵子のカヤックブログ</a>
+                                <a href="http://wateractivity.blogspot.jp/p/blog-page.html" target="_self">遠藤恵子のカヤックブログ</a>
                             </font>
                         </font>
                         <br>
                         <img src="http://www.sports-buddy.jp/anime-ebosi3.gif" width="259" height="158" border="0">
-                        <br>
-                        <br>
+                        <br><br>
                     </font>
                     <font color="#0000ff">
                         <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
-                        <br>
                     </font>
                 </b>
             </font>
-            <br>
+            <br><br>
             <b>
                 <font color="#0000ff" size="-1">
                     アウトドアが個性を育てる
@@ -540,8 +489,7 @@
                         <font size="-1">
                             <b>
                                 <a href="{{ route('kids_programs') }}" target="_self">キッズアドベンチャーの頁へ</a>
-                                <br>
-                                        波や風、大自然と仲間たち。楽しみながら、豊かな個性と自主・自立性を育んでいきます。
+                                <br>波や風、大自然と仲間たち。楽しみながら、豊かな個性と自主・自立性を育んでいきます。
                             </b>
                         </font>
                         <font size="+1">
@@ -552,11 +500,7 @@
                                         <img src="http://www.sports-buddy.jp/image.jpg" border="0" width="277" height="147">
                                         <br>
                                     </a>
-                                    <font size="+1">
-                                        <font color="#0000ff">
-                                            <br>
-                                        </font>
-                                    </font>
+                                    <br>
                                     <img alt="直線上に配置" width="517" height="15" border="0" src="http://www.sports-buddy.jp/sc02_l1.gif">
                                     <br>
                                 </font>
@@ -587,19 +531,15 @@
                         </strong>
                     </font>
                     <font size="-1">バディ冒険団　事務局</font>
-                    <font size="+2" color="#0000ff"></font>
                     <font size="-1">
                         <br>
-
                           〒２５１－００３８　神奈川県藤沢市鵠沼松が岡１－２１－１
                         <br>
                     </font>
                     <font size="+1" color="#ff0000">
                         <font color="#3333cc" size="-1">ご連絡先　遠藤携帯　０９０（５５００）０８４３</font>
                     </font>
-                    <font size="-1">
-                        <br>
-                    </font>
+                    <br>
                 </b>
             </font>
             <font color="#0000ff" size="2">
@@ -611,8 +551,7 @@
                 <b>
                     <br>
                     <img src="http://www.sports-buddy.jp/nz021.jpg" width="161" height="105" border="0">
-                    <br>
-                    <br>
+                    <br><br>
                       ＜バディ（ＢＵＤＤＹ）とは、仲間とか、パートナーのことです。＞
                     <br>
                 </b>
@@ -639,9 +578,7 @@
         <font size="+1">
             <b>
                 <font color="#0000ff" size="-1">
-                    <br>
-                      メール
-                    <br>
+                    <br>メール  <br>
                 </font>
             </b>
         </font>
@@ -649,4 +586,3 @@
     </div>
 </body>
 </html>
-
